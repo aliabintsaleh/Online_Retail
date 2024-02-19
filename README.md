@@ -7,7 +7,8 @@
   
 
 
-![image](https://github.com/aliabintsaleh/Online_Retail/assets/159874711/9a5b9fa9-d6c3-4fac-8363-e5d33c086ec3)
+<img width="908" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/ddf71c4c-0c4a-4b0b-9e08-9f8e00a4ec58">
+
 
 
 

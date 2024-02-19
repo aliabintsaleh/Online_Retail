@@ -4,9 +4,8 @@
  and monetary (how frequently they’ve engaged with a brand. 
  It is a method of using data and segmenting customers based on recency, frequency, and value spent based on current customer behavior to predict the behavior of new customers in the future 
  also It helps to know the size of clients, estimate their value to the business, and create an appropriate marketing strategy.
-  
 
-<img width="888" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/9006278d-f480-4f4d-b48b-047d2f549321">
+  <img width="648" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/e244ab95-3f03-4e3b-b827-858eac1704ff">
 
  This Online Retail data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
 Attribute Information:

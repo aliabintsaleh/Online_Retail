@@ -6,14 +6,7 @@
  also It helps to know the size of clients, estimate their value to the business, and create an appropriate marketing strategy.
   
 
-
-<img width="888" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/da106380-b316-400e-8a59-f1742a797c84">
-
-
-
-
-
-
+<img width="888" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/9006278d-f480-4f4d-b48b-047d2f549321">
 
  This Online Retail data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
 Attribute Information:

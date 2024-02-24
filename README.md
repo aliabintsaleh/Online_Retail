@@ -36,7 +36,10 @@ The visualization below shown the customer segmentation was grouped to 11 group
 <img width="634" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/142fd250-abe3-4eb6-ae9c-7bb2354dc7c2">
 
 The results showed that customers whose last purchase was more recent achieved more profits and purchased more products compared to customers who purchased a while ago.
+
 <img width="458" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/7b32e757-3c7b-4874-9b01-e032784aa393">
+
 The figure below shown Customers with high repeat purchases also made more profits for the business
+
 <img width="460" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/cd326657-6a87-41db-a2f4-da95a43b815f">
 

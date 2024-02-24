@@ -43,3 +43,11 @@ The figure below shown Customers with high repeat purchases also made more profi
 
 <img width="460" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/cd326657-6a87-41db-a2f4-da95a43b815f">
 
+
+Suggestions and solutions :
+Targeted the customers according to their classifications 
+Enhance the quality of Products not purchased by customers
+Customers who have a Platinum rating will be allocated special purchase cards
+Attract new customers by conducting marketing operations so that they become loyal customers of the brand
+Sending marketing messages to customers according to their preferred times to purchase
+

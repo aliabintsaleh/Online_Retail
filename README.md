@@ -17,3 +17,13 @@ InvoiceDate: Invice date and time. Numeric. The day and time when a transaction 
 UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
 CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
 Country: Country name. Nominal. The name of the country where a customer resides.
+
+Data cleaning and preparation  for analysis :
+Checking if there is missing data 
+1.there is a missing values in description column and Customer Id
+2. Since the missing values in the description are less than 5%, so I dropped them 
+3.the missing values in the Customer id are 25% but because there is no other column that can identify the customer , so I dropped them.
+4-Quantity column is numeric ,so I  checked if there is  outlier values and dropped them
+5-delet the records with  0.00 values in unit price column 
+6-checking the inconsistency in Country, description column 
+7-add profit, hour, day and month column 

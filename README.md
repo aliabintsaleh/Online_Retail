@@ -51,3 +51,8 @@ Customers who have a Platinum rating will be allocated special purchase cards
 Attract new customers by conducting marketing operations so that they become loyal customers of the brand
 Sending marketing messages to customers according to their preferred times to purchase
 
+
+<img width="600" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/375c09f8-c051-4038-a403-bd866b602c15">
+
+<img width="601" alt="image" src="https://github.com/aliabintsaleh/Online_Retail/assets/159874711/3968e8e3-9aee-4c48-bce3-f34175a41000">
+

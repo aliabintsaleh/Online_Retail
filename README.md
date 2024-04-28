@@ -1,4 +1,4 @@
-  This data has been collected from KAGLE (One of the companies owned by Google, it is an online community for data scientists and machine learning engineers.
+  This data has been collected from KAGLE (One of the companies owned by Google, it is an online community for data scientists and machine learning engineers)
  This project aims to analyst an Online retail data set using RFM module.
  An RFM model is built using recency(how recently a customer has transacted with a brand), 
  frequency (how frequently they’ve engaged with a brand ) 
